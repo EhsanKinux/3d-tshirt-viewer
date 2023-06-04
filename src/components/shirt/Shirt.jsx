@@ -8,7 +8,7 @@ import state from '../../store';
 const Shirt = ({modelURL}) => {
 
     // const { nodes, materials } = useGLTF(modelURL);
-    const { nodes, materials } = useGLTF(modelURL);
+    const { nodes, materials } = useGLTF('./tshirt.glb');
     const shirtRef = useRef();
     const decalRef = useRef();
     // using default state with valtio
