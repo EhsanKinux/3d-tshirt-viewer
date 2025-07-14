@@ -1,0 +1,14 @@
+.canvas_wrapper {
+  overflow: hidden;
+  height: 80%;
+  width: 50%;
+  max-width: 900px;
+  max-height: 900px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #1e1e1e;
+}
+
+.canvas {
+  transition: all ease-in;
+}
