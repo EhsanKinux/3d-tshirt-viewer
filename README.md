@@ -14,6 +14,7 @@
 
 ## Demo
 
+Click on [DEMO](https://tshirt-viewer.netlify.app/) in order to watch the demo here.
 
 ## Getting Started
 
@@ -26,7 +27,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/EhsanKinux/3d-tshirt-viewer.git
    cd 3d-viewer
    ```
 
